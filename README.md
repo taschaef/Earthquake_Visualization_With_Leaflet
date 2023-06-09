@@ -40,5 +40,8 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Resources
 1. Leaflet Cholorpleth help - https://leafletjs.com/examples/choropleth/ 
-2. Leaflet Documentation
-3. JavaScript Documentation
+2. ColorBrewer - https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=6
+3. GitHub Leaflet Legend help - https://github.com/timwis/leaflet-choropleth/tree/gh-pages/examples/legend
+4. GitHub Leaflet Choropleth Map help - https://github.com/timwis/leaflet-choropleth
+5. Leaflet Documentation
+6. JavaScript Documentation
