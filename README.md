@@ -1,7 +1,7 @@
 # Earthquake Visualizaation with Leaflet
 
 ## How To Use
-In the leaflet_part1 folder you will find my JavaScript code for visualizing the earthquakes, my CSS code that allows the map to render, and the HTML file that will allow you to view the map. 
+In the Leaflet-Part-1 folder you will find my JavaScript code for visualizing the earthquakes, my CSS code that allows the map to render, and the HTML file that will allow you to view the map. 
 
 ## Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
